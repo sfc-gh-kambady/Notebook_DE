@@ -1,2 +1,2 @@
-﻿SELECT * FROM demo.demo.daily_sales
-where customer_id=2
+SELECT * FROM demo.demo.daily_sales
+where customer_id=3
